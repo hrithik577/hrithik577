@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+B+HRITHIK;B.Tech+CSE+(AI+%26+ML)+%7C+Amity+University;Full-Stack+%26+AI+Developer;Building+AI-Native+Solutions&font=Fira%20Code&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+B+HRITHIK;B Tech+CSE+(AI+%26+ML)+%7C+Amity+University;Full-Stack+%26+AI+Developer;Building+AI-Native+Solutions&font=Fira%20Code&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=22&pause=1000">
 </p>
 
 <!-- Animated Banner -->
