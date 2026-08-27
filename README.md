@@ -81,10 +81,10 @@ I'm a final-year **B.Tech CSE (AI & ML)** student passionate about building inte
   <img src="https://github-readme-stats.vercel.app/api?username=hrithik577&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrithik577&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik577&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p>
-
 ---
 
 ## 🧠 LeetCode Progress
