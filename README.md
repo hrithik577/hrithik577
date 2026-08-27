@@ -228,11 +228,8 @@ Actively solving Data Structures & Algorithms problems to sharpen my problem-sol
 
 ## 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrithik577/hrithik577/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrithik577/hrithik577/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrithik577/hrithik577/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Snake animation will appear here after workflow runs -->
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hrithik577&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
