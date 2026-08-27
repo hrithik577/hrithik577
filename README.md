@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HI+I'm+B+HRITHIK&font=Fira%20Code&center=true&width=200&height=50&color=00D4FF&vCenter=true&size=22&pause=1000">
-</p>
+
 
 <!-- Animated Banner -->
 <p align="center">
