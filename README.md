@@ -38,18 +38,18 @@ I'm a passionate **B.Tech CSE (AI & ML)** student at **Amity University, Bengalu
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/university--v2.png" alt="University"/>
+      🏛️
       <br><strong>Amity University</strong>
       <br>Bengaluru, Karnataka
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/graduation-cap--v1.png" alt="Graduation"/>
+      🎓
       <br><strong>B.Tech CSE</strong>
       <br>AI & ML Specialization
       <br>2025 - 2029
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/student-male--v1.png" alt="Student"/>
+      👨‍💻
       <br><strong>Current Focus</strong>
       <br>AI-Native Solutions
       <br>Full-Stack Development
@@ -199,7 +199,7 @@ I'm a passionate **B.Tech CSE (AI & ML)** student at **Amity University, Bengalu
 Actively solving Data Structures & Algorithms problems to sharpen my problem-solving skills.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Hrithik1212?theme=dark&font=Noto%20Sans%20Display&ext=heatmap" alt="LeetCode Stats" width="60%">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Hrithik1212&theme=dark" alt="LeetCode Stats" width="60%">
 </p>
 
 <div align="center">
@@ -228,8 +228,11 @@ Actively solving Data Structures & Algorithms problems to sharpen my problem-sol
 
 ## 📈 Contribution Activity
 
-<!-- Snake animation will appear here after workflow runs -->
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hrithik577&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrithik577/hrithik577/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrithik577/hrithik577/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrithik577/hrithik577/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
