@@ -16,12 +16,6 @@
   <a href="mailto:bhrithik777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrithik577&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/hrithik577?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/hrithik577?style=social" alt="GitHub Stars">
-</p>
-
 ---
 
 ## 🎓 About Me
