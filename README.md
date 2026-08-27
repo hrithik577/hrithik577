@@ -199,7 +199,7 @@ I'm a passionate **B.Tech CSE (AI & ML)** student at **Amity University, Bengalu
 Actively solving Data Structures & Algorithms problems to sharpen my problem-solving skills.
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Hrithik1212&theme=dark" alt="LeetCode Stats" width="60%">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&logo=leetcode&logoColor=FFA116&color=FFA116&query=%24.num_solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHrithik1212" alt="LeetCode Badge">
 </p>
 
 <div align="center">
