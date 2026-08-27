@@ -9,5 +9,5 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Salon AI](https://github.com/hrithik577/salon-ai)** | AI-powered salon queue & appointment booking system. | `Flask` `Python` `SQLite` `ML` |
-| **[DayFlow HRMS](https://github.com/hrithik577/dayflow-hrms)** | AI-native HRM system with real-time workforce intelligence. | `JavaScript` `AI` |
+| **[DayFlow HRMS](https://github.com/hrithik577/dayflow-hrms)** | AI-native HRM system with real-time workforce intelligence. | `JavaScript` `AI` `Python` |
 | **[Agentic BI](https://github.com/hrithik577/agentic-bi)** | (Add a brief description here) | `Python` |
